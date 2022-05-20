@@ -1,0 +1,11 @@
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar{
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
+    min-height: 80px; 
+    background-color: rgb(116, 226, 253);  
+}
+.footer{
+    background-color: rgb(196, 235, 245);
+}
